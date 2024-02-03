@@ -1,2 +1,2 @@
-# kololol
-Kololol's Amazing Subtheme.
+# Wolf
+Wolf's Amazing Subtheme.
